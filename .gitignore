@@ -23,15 +23,12 @@ packrat/lib*/
 *.rar
 *.tar
 *.zip
- 
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
- 
 # OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*
@@ -45,7 +42,6 @@ Thumbs.db
 *.mdb
 *.doc
 *.xls
-
 # R files possibly containing info #
 ####################################
 *.RData
