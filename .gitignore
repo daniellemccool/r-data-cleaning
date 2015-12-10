@@ -52,4 +52,8 @@ Thumbs.db
 .Rproj.user/
 vignettes/*.html
 vignettes/*.pdf
+
+# OAuth #
+#########
+.httr-oauth
 >>>>>>> 3e9db6fd5194dab980b0c6d7d091416ed3e4554a
